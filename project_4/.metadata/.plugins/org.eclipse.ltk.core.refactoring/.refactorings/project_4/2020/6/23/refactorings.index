@@ -1,0 +1,13 @@
+1591162691438	Move 'header1.jsp' to 'jsp'
+1591162703230	Move 'Header.jsp' to 'webapp'
+1591163338739	Rename resource 'header1.jsp'
+1591163476732	Move 'LoginView.html' to 'jsp'
+1591174947150	Rename type 'ConfirmPassword'
+1591174978010	Move 'UserRegistrationView.jsp' to 'jsp'
+1591175053649	Rename type 'ChangePassword'
+1591176547852	Delete element
+1591176637576	Rename resource 'header.jsp'
+1591187462668	Move 'jsp' to 'webapp'
+1591187872054	Rename resource 'LoginView.html'
+1591188847073	Delete element
+1591188857153	Rename resource 'LoginView1.jsp'

@@ -1,0 +1,16 @@
+127.0.0.1 - - [08/Dec/2020:18:12:29 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [08/Dec/2020:18:12:30 +0530] "GET /project_4/ HTTP/1.1" 200 338
+0:0:0:0:0:0:0:1 - - [08/Dec/2020:18:12:32 +0530] "GET /project_4/WelcomeCtl HTTP/1.1" 200 2590
+0:0:0:0:0:0:0:1 - - [08/Dec/2020:18:12:32 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 1044
+0:0:0:0:0:0:0:1 - - [08/Dec/2020:18:12:34 +0530] "GET /project_4/LoginCtl HTTP/1.1" 200 4242
+0:0:0:0:0:0:0:1 - - [08/Dec/2020:18:12:34 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 1044
+0:0:0:0:0:0:0:1 - - [08/Dec/2020:18:12:46 +0530] "POST /project_4/LoginCtl HTTP/1.1" 200 4294
+0:0:0:0:0:0:0:1 - - [08/Dec/2020:18:12:46 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 1044
+0:0:0:0:0:0:0:1 - - [08/Dec/2020:18:13:03 +0530] "POST /project_4/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [08/Dec/2020:18:13:03 +0530] "GET /project_4/WelcomeCtl HTTP/1.1" 200 4391
+0:0:0:0:0:0:0:1 - - [08/Dec/2020:18:13:03 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 1044
+0:0:0:0:0:0:0:1 - - [08/Dec/2020:18:13:51 +0530] "GET /project_4/LoginCtl?operation=logout HTTP/1.1" 200 4261
+0:0:0:0:0:0:0:1 - - [08/Dec/2020:18:13:51 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 1044
+0:0:0:0:0:0:0:1 - - [08/Dec/2020:18:14:03 +0530] "POST /project_4/LoginCtl HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [08/Dec/2020:18:14:03 +0530] "GET /project_4/WelcomeCtl HTTP/1.1" 200 4391
+0:0:0:0:0:0:0:1 - - [08/Dec/2020:18:14:03 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 1044

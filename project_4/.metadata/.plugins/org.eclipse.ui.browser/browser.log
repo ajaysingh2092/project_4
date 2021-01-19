@@ -1,0 +1,13 @@
+
+Oct 27, 2020 15:46:46.61 NEW SESSION
+Oct 27, 2020 15:46:46.61 [6596:7028:1027/154646.608:ERROR:persistent_memory_allocator.cc(843)] Corruption detected in shared-memory segment.
+Oct 27, 2020 15:46:56.35 [6596:6412:1027/154656.354:ERROR:persistent_memory_allocator.cc(843)] Corruption detected in shared-memory segment.
+Oct 27, 2020 15:46:56.79 [6596:6384:1027/154656.794:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 27, 2020 15:47:20.60 [6596:6384:1027/154720.600:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 27, 2020 15:48:01.67 [6596:6384:1027/154801.673:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 27, 2020 15:49:37.94 [6596:6384:1027/154937.947:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 27, 2020 15:52:41.49 [6596:6384:1027/155241.496:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 27, 2020 15:56:45.06 [1027/155645.062:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+Oct 27, 2020 15:58:10.13 [6596:6384:1027/155810.138:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 27, 2020 16:08:10.14 [6596:6384:1027/160810.142:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 27, 2020 16:18:10.14 [6596:6384:1027/161810.146:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105

@@ -1,0 +1,17 @@
+127.0.0.1 - - [04/Aug/2020:11:26:37 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [04/Aug/2020:11:26:41 +0530] "GET /project_4/jsp/LoginView.jsp HTTP/1.1" 200 4178
+0:0:0:0:0:0:0:1 - - [04/Aug/2020:11:26:42 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 1044
+0:0:0:0:0:0:0:1 - - [04/Aug/2020:11:27:16 +0530] "GET /project_4/jsp/LoginView.jsp HTTP/1.1" 200 4172
+0:0:0:0:0:0:0:1 - - [04/Aug/2020:11:27:16 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 1044
+0:0:0:0:0:0:0:1 - - [04/Aug/2020:11:27:42 +0530] "GET /project_4/jsp/LoginView.jsp HTTP/1.1" 200 4180
+0:0:0:0:0:0:0:1 - - [04/Aug/2020:11:27:42 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 1044
+0:0:0:0:0:0:0:1 - - [04/Aug/2020:11:28:33 +0530] "GET /project_4/jsp/LoginView.jsp HTTP/1.1" 200 4189
+0:0:0:0:0:0:0:1 - - [04/Aug/2020:11:28:33 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 1044
+0:0:0:0:0:0:0:1 - - [04/Aug/2020:11:28:40 +0530] "POST /project_4/LoginCtl HTTP/1.1" 200 4239
+0:0:0:0:0:0:0:1 - - [04/Aug/2020:11:28:40 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 1044
+0:0:0:0:0:0:0:1 - - [04/Aug/2020:11:28:47 +0530] "POST /project_4/LoginCtl HTTP/1.1" 200 4224
+0:0:0:0:0:0:0:1 - - [04/Aug/2020:11:28:47 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 1044
+0:0:0:0:0:0:0:1 - - [04/Aug/2020:11:28:59 +0530] "POST /project_4/LoginCtl HTTP/1.1" 200 4230
+0:0:0:0:0:0:0:1 - - [04/Aug/2020:11:28:59 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 1044
+0:0:0:0:0:0:0:1 - - [04/Aug/2020:11:29:15 +0530] "POST /project_4/LoginCtl HTTP/1.1" 200 4241
+0:0:0:0:0:0:0:1 - - [04/Aug/2020:11:29:15 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 1044
